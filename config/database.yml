@@ -14,7 +14,7 @@ development:
   encoding: unicode
   database: kcruby_development
   pool: 5
-  username: darrencauthon
+  username: alishersmac
   min_messages: warning
 
 
@@ -26,7 +26,7 @@ test:
   encoding: unicode
   database: kcruby_test
   pool: 5
-  username: kcruby 
+  username: alishersmac 
   password:
   host: localhost
 

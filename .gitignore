@@ -21,3 +21,6 @@
 # Other artifacts that can be ignored
 .DS_Store
 .env
+
+# Ignore application configuration
+/config/application.yml
